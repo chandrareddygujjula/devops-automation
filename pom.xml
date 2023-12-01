@@ -11,6 +11,7 @@
 	<groupId>com.javatechie</groupId>
 	<artifactId>devops-integration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<package>war</package>
 	<name>devops-integration</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
